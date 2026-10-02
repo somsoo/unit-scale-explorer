@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unit-scale-explorer.enjoy-onepage.com/sitemap.xml
